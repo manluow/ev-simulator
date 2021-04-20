@@ -1,0 +1,405 @@
+
+
+[Snapshot] 2020-04-01 00:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7897    |
+|           Number of newly deployed EVs           |    26    |           Number of EVs on the road           |    129     |
+| Number of EVs returned with no available parking |    0     |  Number of EVs returned to an offline station |     0      |
+|             Number of running orders             |   129    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |    0     |       Total number of unfulfilled orders      |     8      |
+|   Number of unfulfilled orders(EV battery low)   |    0     | Number of unfulfilled orders(no available EV) |     8      |
+|                Total income (10k)                |   0.0    |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 02:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7516    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    510     |
+| Number of EVs returned with no available parking |    67    |  Number of EVs returned to an offline station |     1      |
+|             Number of running orders             |   510    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   755    |       Total number of unfulfilled orders      |    244     |
+|   Number of unfulfilled orders(EV battery low)   |    7     | Number of unfulfilled orders(no available EV) |    237     |
+|                Total income (10k)                |   1.65   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 04:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7627    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    399     |
+| Number of EVs returned with no available parking |   130    |  Number of EVs returned to an offline station |     1      |
+|             Number of running orders             |   399    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   1568   |       Total number of unfulfilled orders      |    421     |
+|   Number of unfulfilled orders(EV battery low)   |    34    | Number of unfulfilled orders(no available EV) |    387     |
+|                Total income (10k)                |   3.65   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 06:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7623    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    403     |
+| Number of EVs returned with no available parking |   171    |  Number of EVs returned to an offline station |     2      |
+|             Number of running orders             |   403    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   2087   |       Total number of unfulfilled orders      |    546     |
+|   Number of unfulfilled orders(EV battery low)   |    58    | Number of unfulfilled orders(no available EV) |    488     |
+|                Total income (10k)                |   4.89   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 08:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7341    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    685     |
+| Number of EVs returned with no available parking |   172    |  Number of EVs returned to an offline station |     2      |
+|             Number of running orders             |   685    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   2803   |       Total number of unfulfilled orders      |    947     |
+|   Number of unfulfilled orders(EV battery low)   |    97    | Number of unfulfilled orders(no available EV) |    850     |
+|                Total income (10k)                |   6.43   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 10:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7227    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    799     |
+| Number of EVs returned with no available parking |   220    |  Number of EVs returned to an offline station |     3      |
+|             Number of running orders             |   799    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   4005   |       Total number of unfulfilled orders      |    1556    |
+|   Number of unfulfilled orders(EV battery low)   |   197    | Number of unfulfilled orders(no available EV) |    1359    |
+|                Total income (10k)                |   9.14   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 12:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7228    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    798     |
+| Number of EVs returned with no available parking |   295    |  Number of EVs returned to an offline station |     4      |
+|             Number of running orders             |   798    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   5183   |       Total number of unfulfilled orders      |    2233    |
+|   Number of unfulfilled orders(EV battery low)   |   360    | Number of unfulfilled orders(no available EV) |    1873    |
+|                Total income (10k)                |  11.84   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 14:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7146    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    880     |
+| Number of EVs returned with no available parking |   368    |  Number of EVs returned to an offline station |     4      |
+|             Number of running orders             |   880    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   6371   |       Total number of unfulfilled orders      |    3044    |
+|   Number of unfulfilled orders(EV battery low)   |   593    | Number of unfulfilled orders(no available EV) |    2451    |
+|                Total income (10k)                |   14.5   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 16:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7008    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1018    |
+| Number of EVs returned with no available parking |   436    |  Number of EVs returned to an offline station |     5      |
+|             Number of running orders             |   1018   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   7593   |       Total number of unfulfilled orders      |    3988    |
+|   Number of unfulfilled orders(EV battery low)   |   831    | Number of unfulfilled orders(no available EV) |    3157    |
+|                Total income (10k)                |  17.17   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 18:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    7004    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1022    |
+| Number of EVs returned with no available parking |   498    |  Number of EVs returned to an offline station |     6      |
+|             Number of running orders             |   1022   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |   8968   |       Total number of unfulfilled orders      |    4994    |
+|   Number of unfulfilled orders(EV battery low)   |   1161   | Number of unfulfilled orders(no available EV) |    3833    |
+|                Total income (10k)                |  20.19   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 20:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    6958    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1068    |
+| Number of EVs returned with no available parking |   594    |  Number of EVs returned to an offline station |     8      |
+|             Number of running orders             |   1068   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  10172   |       Total number of unfulfilled orders      |    5929    |
+|   Number of unfulfilled orders(EV battery low)   |   1478   | Number of unfulfilled orders(no available EV) |    4451    |
+|                Total income (10k)                |  22.85   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-01 22:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3005   |       Number of available charging docks      |   15123    |
+|            Number of EVs in operation            |   8026   |           Number of EVs in charging           |    6904    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1122    |
+| Number of EVs returned with no available parking |   667    |  Number of EVs returned to an offline station |     8      |
+|             Number of running orders             |   1122   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  11211   |       Total number of unfulfilled orders      |    6788    |
+|   Number of unfulfilled orders(EV battery low)   |   1763   | Number of unfulfilled orders(no available EV) |    5025    |
+|                Total income (10k)                |  25.14   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 00:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6967    |
+|           Number of newly deployed EVs           |    15    |           Number of EVs on the road           |    1074    |
+| Number of EVs returned with no available parking |   763    |  Number of EVs returned to an offline station |     14     |
+|             Number of running orders             |   1074   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  12092   |       Total number of unfulfilled orders      |    7392    |
+|   Number of unfulfilled orders(EV battery low)   |   1958   | Number of unfulfilled orders(no available EV) |    5434    |
+|                Total income (10k)                |  27.09   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 02:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6975    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1066    |
+| Number of EVs returned with no available parking |   794    |  Number of EVs returned to an offline station |     16     |
+|             Number of running orders             |   1066   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  12815   |       Total number of unfulfilled orders      |    7839    |
+|   Number of unfulfilled orders(EV battery low)   |   2096   | Number of unfulfilled orders(no available EV) |    5743    |
+|                Total income (10k)                |  28.66   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 04:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    7055    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    986     |
+| Number of EVs returned with no available parking |   821    |  Number of EVs returned to an offline station |     18     |
+|             Number of running orders             |   986    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  13322   |       Total number of unfulfilled orders      |    8122    |
+|   Number of unfulfilled orders(EV battery low)   |   2163   | Number of unfulfilled orders(no available EV) |    5959    |
+|                Total income (10k)                |  29.83   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 06:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    7045    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    996     |
+| Number of EVs returned with no available parking |   838    |  Number of EVs returned to an offline station |     18     |
+|             Number of running orders             |   996    |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  13634   |       Total number of unfulfilled orders      |    8290    |
+|   Number of unfulfilled orders(EV battery low)   |   2193   | Number of unfulfilled orders(no available EV) |    6097    |
+|                Total income (10k)                |  30.55   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 08:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6790    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1251    |
+| Number of EVs returned with no available parking |   820    |  Number of EVs returned to an offline station |     20     |
+|             Number of running orders             |   1251   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  14151   |       Total number of unfulfilled orders      |    8742    |
+|   Number of unfulfilled orders(EV battery low)   |   2247   | Number of unfulfilled orders(no available EV) |    6495    |
+|                Total income (10k)                |  31.69   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 10:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6629    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1412    |
+| Number of EVs returned with no available parking |   878    |  Number of EVs returned to an offline station |     21     |
+|             Number of running orders             |   1412   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  15142   |       Total number of unfulfilled orders      |    9573    |
+|   Number of unfulfilled orders(EV battery low)   |   2376   | Number of unfulfilled orders(no available EV) |    7197    |
+|                Total income (10k)                |  33.91   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 12:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6634    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1407    |
+| Number of EVs returned with no available parking |   940    |  Number of EVs returned to an offline station |     23     |
+|             Number of running orders             |   1407   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  16171   |       Total number of unfulfilled orders      |   10506    |
+|   Number of unfulfilled orders(EV battery low)   |   2621   | Number of unfulfilled orders(no available EV) |    7885    |
+|                Total income (10k)                |   36.3   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 14:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6583    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1458    |
+| Number of EVs returned with no available parking |   942    |  Number of EVs returned to an offline station |     25     |
+|             Number of running orders             |   1458   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  17264   |       Total number of unfulfilled orders      |   11448    |
+|   Number of unfulfilled orders(EV battery low)   |   2922   | Number of unfulfilled orders(no available EV) |    8526    |
+|                Total income (10k)                |  38.72   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 16:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6524    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1517    |
+| Number of EVs returned with no available parking |   1001   |  Number of EVs returned to an offline station |     29     |
+|             Number of running orders             |   1517   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  18375   |       Total number of unfulfilled orders      |   12521    |
+|   Number of unfulfilled orders(EV battery low)   |   3233   | Number of unfulfilled orders(no available EV) |    9288    |
+|                Total income (10k)                |  41.14   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 18:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6453    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1588    |
+| Number of EVs returned with no available parking |   1044   |  Number of EVs returned to an offline station |     30     |
+|             Number of running orders             |   1588   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  19581   |       Total number of unfulfilled orders      |   13722    |
+|   Number of unfulfilled orders(EV battery low)   |   3639   | Number of unfulfilled orders(no available EV) |   10083    |
+|                Total income (10k)                |  43.76   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 20:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6487    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1554    |
+| Number of EVs returned with no available parking |   1087   |  Number of EVs returned to an offline station |     31     |
+|             Number of running orders             |   1554   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  20745   |       Total number of unfulfilled orders      |   14751    |
+|   Number of unfulfilled orders(EV battery low)   |   4000   | Number of unfulfilled orders(no available EV) |   10751    |
+|                Total income (10k)                |  46.32   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-02 22:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3010   |       Number of available charging docks      |   15142    |
+|            Number of EVs in operation            |   8041   |           Number of EVs in charging           |    6517    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1524    |
+| Number of EVs returned with no available parking |   1153   |  Number of EVs returned to an offline station |     32     |
+|             Number of running orders             |   1524   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  21705   |       Total number of unfulfilled orders      |   15675    |
+|   Number of unfulfilled orders(EV battery low)   |   4311   | Number of unfulfilled orders(no available EV) |   11364    |
+|                Total income (10k)                |  48.44   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-03 00:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3015   |       Number of available charging docks      |   15162    |
+|            Number of EVs in operation            |   8056   |           Number of EVs in charging           |    6555    |
+|           Number of newly deployed EVs           |    15    |           Number of EVs on the road           |    1501    |
+| Number of EVs returned with no available parking |   1201   |  Number of EVs returned to an offline station |     36     |
+|             Number of running orders             |   1501   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  22405   |       Total number of unfulfilled orders      |   16264    |
+|   Number of unfulfilled orders(EV battery low)   |   4494   | Number of unfulfilled orders(no available EV) |   11770    |
+|                Total income (10k)                |  49.97   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-03 02:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3015   |       Number of available charging docks      |   15162    |
+|            Number of EVs in operation            |   8056   |           Number of EVs in charging           |    6628    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1428    |
+| Number of EVs returned with no available parking |   1211   |  Number of EVs returned to an offline station |     38     |
+|             Number of running orders             |   1428   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  22979   |       Total number of unfulfilled orders      |   16659    |
+|   Number of unfulfilled orders(EV battery low)   |   4592   | Number of unfulfilled orders(no available EV) |   12067    |
+|                Total income (10k)                |  51.24   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+
+
+[Snapshot] 2020-04-03 04:00:00 -- No rebalancing
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|                       item                       |  amount  |                      item                     |   amount   |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
+|         Number of stations in operation          |   3015   |       Number of available charging docks      |   15162    |
+|            Number of EVs in operation            |   8056   |           Number of EVs in charging           |    6708    |
+|           Number of newly deployed EVs           |    0     |           Number of EVs on the road           |    1348    |
+| Number of EVs returned with no available parking |   1226   |  Number of EVs returned to an offline station |     38     |
+|             Number of running orders             |   1348   |        Number of rebalancing operations       |     0      |
+|            Number of finished orders             |  23341   |       Total number of unfulfilled orders      |   16807    |
+|   Number of unfulfilled orders(EV battery low)   |   4618   | Number of unfulfilled orders(no available EV) |   12189    |
+|                Total income (10k)                |  52.05   |      Total cost on user incentives (10k)      |    0.0     |
++--------------------------------------------------+----------+-----------------------------------------------+------------+
