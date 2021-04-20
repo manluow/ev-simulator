@@ -1,6 +1,6 @@
 # Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning
 
-Simulator code fo our IJCAI'20 paper: [Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/0186.pdf)
+Simulator code for our IJCAI'20 paper: [Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/0186.pdf)
 
 Man Luo, Wenzhe Zhang, Tianyou Song, Kun Li, Hongming Zhu, Bowen Du and Hongkai Wen
 
