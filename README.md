@@ -1,6 +1,6 @@
 # Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning
 
-Our [paper](https://www.ijcai.org/Proceedings/2020/0186.pdf)
+Our paper can be found [here](https://www.ijcai.org/Proceedings/2020/0186.pdf). An extended version is under revision for ACM TIST.
 
 
 ## Prerequisites
