@@ -1,5 +1,8 @@
 # Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning
 
+[Paper](https://www.ijcai.org/Proceedings/2020/0186.pdf)
+
+
 ## Prerequisites
 - Python 3.7
 - utm 0.5.0
