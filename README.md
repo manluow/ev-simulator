@@ -4,13 +4,14 @@ Our paper can be found [here](https://www.ijcai.org/Proceedings/2020/0186.pdf). 
 
 
 ## Prerequisites
+```
 - Python 3.7
 - utm 0.5.0
 - pandas 0.25.0
 - kdtree 0.16
 - numpy 1.16.4
 - prettytable 0.7.2
-
+```
 
 ### Using Pip
 ```
