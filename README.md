@@ -1,10 +1,9 @@
-# Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning
+# Rebalnacing Expanding EV Sharing Systems with Deep Reinforcement Learning
 
-Simulator code for our IJCAI'20 paper: [Rebalnacing Expanding EV sharing System with Deep Reinforcement Learning](https://www.ijcai.org/Proceedings/2020/0186.pdf)
+Simulator code for our paper: [Fleet Rebalancing for Expanding Shared e-Mobility Systems: A Multi-agent Deep Reinforcement Learning Approach]()
 
-Man Luo, Wenzhe Zhang, Tianyou Song, Kun Li, Hongming Zhu, Bowen Du and Hongkai Wen
+Man Luo, Bowen Du, Wenzhe Zhang, Tianyou Song, Kun Li, Hongming Zhu, Mark Birkin and Hongkai Wen
 
-An extended version is under revision for ACM TIST. 
 
 
 ## Prerequisites
@@ -109,12 +108,3 @@ At each timestamp (currently set to 10 mins), a snapshot should be generated to 
 +--------------------------------------------------+----------+-----------------------------------------------+------------+
 ```
 
-## Citations
-```
-@inproceedings{Luo:IJCAI:2020,
-  title={Rebalancing Expanding EV Sharing Systems with Deep Reinforcement Learning},
-  author={Luo, Man and Zhang, Wenzhe and Song, Tianyou and Li, Kun and Zhu, Hongming and Du, Bowen and Wen, Hongkai},
-  booktitle={29th International Joint Conference on Artificial Intelligence (IJCAI)},
-  year={2020}
-}
-```
